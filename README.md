@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Nelson 👋
+Software Engineer | ASU Student | Creating innovative projects
 
-<!--
-**Nelly444/Nelly444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create applications that help make technology into a useful tool for my community
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack
+HTML, CSS, JavaScript, React
+
+Backend
+Python, Java, C++, C#,
+
+Data
+Pandas, NumPy
+
+Frameworks
+Streamlit, fastapi, flask, django
+
+## Connect With Me
+
+* Email: [nelsonsupriyasilp111@gmail.com](mailto:nelsonsupriyasilp111@gmail.com)
+* Linkedin: [Nelson Supriyasilp](https://www.linkedin.com/in/nelson-supriyasilp/)
+
+
