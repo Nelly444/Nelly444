@@ -15,7 +15,7 @@ Data
 Pandas, NumPy
 
 Frameworks
-Streamlit, fastapi, flask, django
+Streamlit, fastAPI, flask, django
 
 ## Connect With Me
 
