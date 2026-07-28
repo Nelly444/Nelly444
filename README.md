@@ -1,21 +1,24 @@
 ## Hi there, I'm Nelson 👋
 Software Engineer | ASU Student | Creating innovative projects
 
-I create applications that help make technology into a useful tool for my community
+CS student building AI apps. Interested in where AI and fintech overlap.
 
 ## Tech Stack
 
 Full Stack
-HTML, CSS, JavaScript, React
+HTML, CSS, JavaScript, React, Tailwind CSS
 
 Backend
-Python, Java, C++, C#,
+Python, Java, C++, C#, Javascript, Typescript 
 
-Data
-Pandas, NumPy
+Data/AI
+Pandas, NumPy, LangChain, OpenAI API, Anthropic API
+
+Databases
+PostgreSQL, SQL, Alembic
 
 Frameworks
-Streamlit, fastAPI, flask, django
+Streamlit, FastAPI, Flask, Django, Alembic
 
 ## Connect With Me
 
