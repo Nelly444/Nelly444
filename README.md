@@ -6,7 +6,7 @@ CS student building AI apps. Interested in where AI and fintech overlap.
 ## Tech Stack
 
 Full Stack
-HTML, CSS, JavaScript, React, Tailwind CSS
+HTML, CSS, JavaScript, React, Tailwind CSS, Node.js
 
 Backend
 Python, Java, C++, C#, Javascript, Typescript 
