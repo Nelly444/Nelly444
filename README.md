@@ -7,9 +7,9 @@ Computer Science student (Software Engineering) at Arizona State University, min
 CS student at **Arizona State University (Ira A. Fulton Schools of Engineering)** building full-stack, AI-integrated applications. I like taking projects past the demo stage — real test coverage, real evaluation metrics, real architecture decisions, not just a working prototype.
 
 - 🔧 Currently working on:
-  - **[Driftline](#)** — subscription tracker that detects recurring charges from Plaid transaction data using DBSCAN clustering and Holt-Winters forecasting, with real-time drift alerts over WebSocket
-  - **[Empact](#)** — semantic search over real GlobalGiving charity projects using pgvector and OpenAI embeddings, with cached AI-generated summaries via Anthropic Claude
-  - **[PantryChef](#)** — recipe matching app with a custom weighted ranking algorithm combining ingredient overlap and expiration urgency
+  - **[Driftline](https://github.com/Nelly444/Drifitline)** — subscription tracker that detects recurring charges from Plaid transaction data using DBSCAN clustering and Holt-Winters forecasting, with real-time drift alerts over WebSocket
+  - **[Empact](https://github.com/Nelly444/Empact)** — semantic search over real GlobalGiving charity projects using pgvector and OpenAI embeddings, with cached AI-generated summaries via Anthropic Claude
+  - **[PantryChef](https://pantry-chef-plum.vercel.app/)** — recipe matching app with a custom weighted ranking algorithm combining ingredient overlap and expiration urgency
 - 📌 Seeking **Software Engineering internships** for **Summer 2027**
 - 🏛️ Community Officer @ **SoDA (Software Developers Association)** · District Secretary @ **Circle K International** · Secretary @ **ASU Circle K Club**
 
@@ -51,7 +51,7 @@ CS student at **Arizona State University (Ira A. Fulton Schools of Engineering)*
 
 ## 💡 Featured Projects
 
-### 📉 [Driftline](#) — Subscription Tracking & Anomaly Detection
+### 📉 [Driftline](https://github.com/Nelly444/Drifitline) — Subscription Tracking & Anomaly Detection
 
 Connects to a bank account via Plaid and automatically detects recurring subscriptions in transaction history, flagging price changes in real time.
 
@@ -64,7 +64,7 @@ Connects to a bank account via Plaid and automatically detects recurring subscri
 
 ---
 
-### 🌱 [Empact](#) — AI-Powered Charity Discovery
+### 🌱 [Empact](https://github.com/Nelly444/Empact) — AI-Powered Charity Discovery
 
 Matches a plain-English cause description to real GlobalGiving charity projects using semantic search, not keyword matching.
 
@@ -77,14 +77,16 @@ Matches a plain-English cause description to real GlobalGiving charity projects 
 
 ---
 
-### 🥘 [PantryChef](#) — Recipe Matching from Your Pantry
+### 🥘 [PantryChef](https://github.com/Nelly444/pantryChef) — Recipe Matching from Your Pantry
 
-Matches users to recipes based on their available pantry ingredients using the Spoonacular API.
+Matches users to recipes based on their available pantry ingredients using the Spoonacular API, with nutrition facts included for each result. Built for people with dietary restrictions, or anyone who'd rather not scroll through endless videos to find a recipe.
 
 - Built a full-stack recipe app matching pantry ingredients to recipes via the Spoonacular API
 - Designed a weighted ranking algorithm combining ingredient match % with expiration urgency
 - Developed a 6-endpoint FastAPI REST API with full test coverage on core matching and caching logic
 - Maintained a 129-test suite (pytest + Vitest) across ~3,100 lines of production code
+
+*Note: backend is hosted on Render's free tier and may take 30–60 seconds to spin up on first load.*
 
 **Tech:** `Python` `FastAPI` `React` `Tailwind CSS` `Spoonacular API`
 
