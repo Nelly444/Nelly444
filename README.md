@@ -88,11 +88,6 @@ Matches users to recipes based on their available pantry ingredients using the S
 
 **Tech:** `Python` `FastAPI` `React` `Tailwind CSS` `Spoonacular API`
 
-## 📈 GitHub Stats
-
-<!-- Replace YOUR_USERNAME below with your GitHub username -->
-[![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://github.com/YOUR_USERNAME)
-
 ## 🔗 Let's Connect
 
 - ✉️ Email: nelsonsupriyasilp111@gmail.com
