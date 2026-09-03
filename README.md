@@ -4,7 +4,7 @@ Computer Science student (Software Engineering) at Arizona State University, min
 
 ## 🧭 About Me
 
-CS student at **Arizona State University (Ira A. Fulton Schools of Engineering)** building full-stack, AI-integrated applications. I like taking projects past the demo stage — real test coverage, real evaluation metrics, real architecture decisions, not just a working prototype.
+CS student at **Arizona State University (Ira A. Fulton Schools of Engineering)** building full-stack, AI-integrated applications. I like building projects that start from the ground up and go into real test coverage, real evaluation metrics, real architecture decisions.
 
 - 🔧 Currently working on:
   - **[Driftline](https://github.com/Nelly444/Drifitline)** — subscription tracker that detects recurring charges from Plaid transaction data using DBSCAN clustering and Holt-Winters forecasting, with real-time drift alerts over WebSocket
