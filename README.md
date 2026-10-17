@@ -56,6 +56,7 @@ Connects to a bank account via Plaid and automatically detects recurring subscri
 - Verified the clustering/drift pipeline via a synthetic evaluation harness (F1 = 0.857, ARI = 0.765)
 - Diagnosed and fixed an N+1 query pattern in SQLAlchemy, cutting sync latency from 60s+ to ~3s
 - Assembled a FastAPI + React app (~4K LOC, 13 REST + 1 WebSocket endpoint) validated by 44 pytest tests
+- Applied DBSCAN clustering and Holt-Winters forecasting to detect subscription price drift in real time
 
 **Tech:** `React` `TypeScript` `FastAPI` `PostgreSQL` `scikit-learn` `Plaid API`
 
